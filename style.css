@@ -2,17 +2,14 @@ body {
     color: rgb(0, 0, 0);
 }
 
-ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: rgb(236, 236, 236);
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
 }
 
 #block-1, #block-2{
     display: inline;
-}
-
-li{
-    display: inline;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(236, 236, 236);
 }
