@@ -1,5 +1,5 @@
 body {
-    color: rgb(0, 0, 0);
+    color: #D4ECDD;
 }
 
 .background-image{
@@ -52,7 +52,7 @@ body {
 }
 
 .navbar a:hover{
-    background: deepskyblue;
+    background: #345B63;
 }
 
 .wrapper{
