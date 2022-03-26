@@ -6,4 +6,6 @@
 28. Define the head and body of an HTML document.
 
 =====================  CSS  ======================
-5. Change the font size of an element
+5. Change the font size of an element.
+
+10.Add borders around your borders.
