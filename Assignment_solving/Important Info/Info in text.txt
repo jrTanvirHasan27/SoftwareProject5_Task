@@ -13,3 +13,7 @@
 22.Use clockwise notation to specify the margin of an element
 
 44.Use a media query to change a variable
+
+=====================  Flex Box  ======================
+
+17.Use the align self property.
