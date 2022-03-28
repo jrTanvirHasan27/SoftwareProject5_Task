@@ -21,3 +21,7 @@
 =====================  CSS Grid  ======================
 
 22.Create Grids within Grids.
+
+=====================  Basic JavaScript  ======================
+
+17.Create Decimal Numbers with JavaScript
