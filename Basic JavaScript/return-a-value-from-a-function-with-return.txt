@@ -1,0 +1,4 @@
+function timesFive(x){
+  let temp = x * 5;
+  return temp
+}
