@@ -24,6 +24,8 @@
 
 =====================  Basic JavaScript  ======================
 
-17.Create Decimal Numbers with JavaScript
+17.Create Decimal Numbers with JavaScript.
 
-27. Escape Sequences in Strings
+27. Escape Sequences in Strings.
+
+50. Passing values to functions with arguments.
