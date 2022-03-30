@@ -25,3 +25,5 @@
 =====================  Basic JavaScript  ======================
 
 17.Create Decimal Numbers with JavaScript
+
+27. Escape Sequences in Strings
